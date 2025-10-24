@@ -138,6 +138,8 @@ public class AddFavourites extends BaseClass {
 		add.addFavouritesDetails();
 		add.productList();
 		add.managFavourites();
+		
+		System.out.println("git hub changes");
 
 	}
 }
