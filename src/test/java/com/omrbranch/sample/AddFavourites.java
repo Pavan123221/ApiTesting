@@ -139,7 +139,6 @@ public class AddFavourites extends BaseClass {
 		add.productList();
 		add.managFavourites();
 		
-		System.out.println("git hub changes");
 
 	}
 }
