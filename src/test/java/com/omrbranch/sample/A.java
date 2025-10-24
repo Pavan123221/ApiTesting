@@ -38,6 +38,10 @@ public class A {
 
 		Employee employee = new Employee(1, 6, 16961, 2930, data, support);
 		object.writeValue(file, employee);
+		
+		System.out.println("Pavan");
+		System.out.println("Power");
+		
 
 	}
 
